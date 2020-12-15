@@ -48,4 +48,4 @@ python trainer.py
 ```python
 Please input the training size: 6
 ```
-The result will save to this folder automatically.# gomoku_with_random_delete
+The result will save to this folder automatically.
